@@ -1,5 +1,4 @@
 // Root build
 defaultConfig {
     applicationId "com.mycios.nfcwriter.raw" // new ID
-    ...
 }
