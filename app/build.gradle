@@ -7,8 +7,10 @@ android {
   namespace 'com.mycios.nfcwriter'
   compileSdk 35
 
+//  defaultConfig {
+//    applicationId "com.mycios.nfcwriter"
   defaultConfig {
-    applicationId "com.mycios.nfcwriter"
+    applicationId "com.mycios.nfcwriter.raw" // new ID 
     minSdk 21
     targetSdk 35
     versionCode 2
